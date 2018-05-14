@@ -13,3 +13,5 @@ https://github.com/mcxtzhang/ZLayoutManager
 https://github.com/yuqirong/CardSwipeLayout
 
 https://github.com/xmuSistone/android-card-slide-panel
+
+https://github.com/CocoQueen/StackLayout
