@@ -1,6 +1,9 @@
 # CardFoldView
-卡片式折叠交互效果（未完待续）
+卡片式折叠交互效果
+
 相关网址：
+
+
 https://github.com/flschweiger/SwipeStack
 
 https://github.com/xiepeijie/SwipeCardView
